@@ -1,4 +1,4 @@
-jfrom setuptools import setup
+from setuptools import setup
 
 setup(
     name="github_api_tester",
